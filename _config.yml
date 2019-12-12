@@ -8,7 +8,7 @@
 # Site settings
 title: THE AFRICAN JOURNAL OF HEALTH SCIENCES
 brief-intro: ""
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "Journal" # the subpath of your site, e.g. /blog
 url: "https://stackatomc.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
