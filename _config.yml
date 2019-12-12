@@ -23,7 +23,7 @@ email: normanbaras@gmail.com
 # linkedIn_username: gaohaoyang
 # dribbble_username:
 # CSDN
-theme : jekyll-theme-gaeblogx
+remote_theme: "SeraphRoy/GaeBlogx"
 description_footer: AFRICAN JOURNAL OF HEALTH SCIENCES 
 
 # comments
